@@ -1,0 +1,18 @@
+kepid:          KepID
+kepoi_name:     KOI Name
+kepler_name:    Kepler Name
+koi_disposition: Exoplanet Archive Disposition
+koi_pdisposition: Disposition Using Kepler Data
+koi_period:     Orbital Period [days]
+koi_eccen:      Eccentricity
+koi_fittype:    Planetary Fit Type
+koi_prad:       Planetary Radius [Earth radii]
+koi_incl:       Inclination [deg]
+koi_teq:        Equilibrium Temperature [K]
+koi_insol:      Insolation Flux [Earth flux]
+koi_tce_plnt_num: TCE Planet Number
+koi_steff:      Stellar Effective Temperature [K]
+koi_slogg:      Stellar Surface Gravity [log10(cm/s**2)]
+koi_srad:       Stellar Radius [Solar radii]
+ra:             RA [decimal degrees]
+dec:            Dec [decimal degrees]

@@ -1,0 +1,17 @@
+epic_candname:  Candidate Name
+pl_name:        Planet Name
+k2c_disp:       Exoplanet Archive Disposition
+ra_str:         RA [sexagesimal]
+ra:             RA [sexagesimal]
+dec_str:        Dec [sexagesimal]
+dec:            Dec [sexagesimal]
+pl_orbper:      Orbital Period [days]
+pl_orbincl:     Inclination [deg]
+pl_ratdor:      Ratio of Distance to Stellar Radius
+pl_ratror:      Ratio of Candidate to Stellar Radius
+pl_rade:        Candidate Radius [Earth radii]
+pl_radj:        Candidate Radius [Jupiter radii]
+st_teff:        Effective Temperature [K]
+st_logg:        Stellar Surface Gravity [log10(cm/s**2)]
+st_metfe:       Stellar Metallicity [dex]
+st_rad:         Stellar Radius [Solar radii]

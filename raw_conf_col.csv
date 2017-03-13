@@ -1,0 +1,48 @@
+pl_hostname:    Host Name
+pl_letter:      Planet Letter
+pl_discmethod:  Discovery Method
+pl_pnum:        Number of Planets in System
+pl_orbper:      Orbital Period [days]
+pl_orbsmax:     Orbit Semi-Major Axis [AU]
+pl_orbeccen:    Eccentricity
+pl_orbincl:     Inclination [deg]
+pl_ttvflag:     TTV Flag
+pl_kepflag:     Kepler Field Flag
+pl_k2flag:      K2 Mission Flag
+ra_str:         RA [sexagesimal]
+ra:             RA [sexagesimal]
+dec_str:        Dec [sexagesimal]
+dec:            Dec [sexagesimal]
+st_dist:        Distance [pc]
+st_teff:        Effective Temperature [K]
+st_mass:        Stellar Mass [Solar mass]
+st_rad:         Stellar Radius [Solar radii]
+rowupdate:      Date of Last Update
+pl_name:        Planet Name
+pl_rvamp:       Radial Velocity Amplitude [m/s]
+pl_eqt:         Equilibrium Temperature [K]
+pl_insol:       Insolation Flux [Earth flux]
+pl_bmassprov:   Planet Mass or M*sin(i) Provenance
+pl_bmassj:      Planet Mass or M*sin(i)[Jupiter mass]
+pl_bmasse:      Planet Mass or M*sin(i) [Earth mass]
+pl_dens:        Planet Density [g/cm**3]
+pl_radj:        Planet Radius [Jupiter radii]
+pl_rade:        Planet Radius [Earth radii]
+pl_rads:        Planet Radius [Solar radii]
+pl_def_reflink: Default Reference
+pl_disc:        Year of Discovery
+pl_disc_reflink: Discovery Reference
+pl_locale:      Discovery Locale
+pl_facility:    Discovery Facility
+pl_telescope:   Discovery Telescope
+pl_instrument:  Discovery Instrument
+st_rah:         RA [hrs]
+st_glon:        Galactic Longitude [deg]
+st_glat:        Galactic Latitude [deg]
+st_elon:        Ecliptic Longitude [deg]
+st_elat:        Ecliptic Latitude [deg]
+st_plx:         Parallax [mas]
+st_radv:        Radial Velocity [km/s]
+st_sp:          Spectral Type
+st_spstr:       Spectral Type
+st_age:         Stellar Age [Gyr]
